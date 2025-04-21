@@ -9,6 +9,8 @@ Additionally, the container must share the host process namespace (e.g., hostPID
 
 ## Article
 
+https://www.deep-kondah.com/you-see-me-now-you-dont-bpf-map-attacks-via-privileged-file-descriptor-hijacking/
+
 ## Test Deployment
 - Deploy any ring buffer collector in your Kubernetes cluster, for example:
   - e.g https://github.com/mouadk/ebpf-ringbuffer
